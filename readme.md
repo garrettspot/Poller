@@ -33,8 +33,9 @@ A full-stack poll-making app with user authentication, poll creation, voting, an
    ```
 3. Start the backend:
    ```
-   node index.js
+   npm run dev
    ```
+   The app will run on `http://localhost:8000`.
 
 ### Frontend Setup
 
@@ -45,7 +46,7 @@ A full-stack poll-making app with user authentication, poll creation, voting, an
    ```
 2. Start the frontend:
    ```
-   npm start
+   npm run dev
    ```
    The app will run on `http://localhost:3000`.
 
